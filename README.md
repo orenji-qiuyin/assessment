@@ -51,6 +51,7 @@ mvn spring-boot:run
 ### Set up MySQL
 ```
 mysql -u root -p 
+> CREATE DATABASE db_property;
 > CREATE USER 'springuser'@'%' IDENTIFIED BY 'ThePassword';
 > GRANT ALL PRIVILEGES ON db_property.* TO 'springuser'@'%';
 > FLUSH PRIVILEGES;
