@@ -1,0 +1,4 @@
+com\property\controller\PropertyControllerTest.class
+com\property\controller\PropertyControllerMockTest.class
+com\property\config\RestTemplateConfig.class
+com\property\controller\PropertyControllerMockMvcTest.class

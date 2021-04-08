@@ -1,0 +1,11 @@
+com\property\configuration\JpaConfiguration.class
+com\property\rest\SecurityConfig.class
+com\property\filter\ApiKeyRequestFilter.class
+com\property\service\PropertyService.class
+com\property\entity\util\PagingResponse.class
+com\property\PropertyApplication.class
+com\property\entity\Property.class
+com\property\repository\PropertyRepository.class
+com\property\controller\PropertyController.class
+com\property\constants\APIConstants.class
+com\property\entity\util\PagingHeaders.class
